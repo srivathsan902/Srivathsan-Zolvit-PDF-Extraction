@@ -1,0 +1,13 @@
+# General Requirements
+numpy
+pandas
+matplotlib
+
+# PDF Processing
+PyPDF2
+pdfplumber
+pytesseract 
+pdf2image
+pymupdf
+
+# Image Processing

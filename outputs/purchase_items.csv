@@ -1,0 +1,49 @@
+Invoice Number,Item Number,Item Name,Discounted Price,Actual Price,Discount Percentage,Quantity,Taxable Value,Tax Amount,Tax Percentage,Amount
+INV-117,1,Kera M 5% Solution,492.86,616.07,-20,1,492.86,59.14,12,552.0
+INV-117,2,Arachitol Nano (60k) 4*5ml,299.58,340.43,-12,3,898.73,107.85,12,1006.58
+INV-117,3,Neurobion Forte - 30 tablets,30.58,34.75,-12,3,91.73,16.51,18,108.24
+INV-118,1,Vitamin b12 test,350.0,350.0,0,1,350.0,0.0,0,350.0
+INV-121,1,Acne-UV Gel - spf 50 (50 gm),581.57,775.42,-25,1,581.57,104.68,18,686.25
+INV-121,2,Arachitol Nano (60k) 4*5ml,289.36,340.43,-15,1,289.36,34.72,12,324.09
+INV-123,1,Arachitol Nano (60k) 4*5ml,299.58,340.43,-12,3,898.73,107.85,12,1006.58
+INV-123,2,Neurobion Forte - 30 tablets,30.58,34.75,-12,3,91.73,16.51,18,108.24
+INV-124,1,Arachitol Nano (60k) 4*5ml,340.43,340.43,0,3,1021.29,122.55,12,1143.84
+INV-124,2,Neurobion Forte - 30 tablets,34.75,34.75,0,3,104.24,18.76,18,123.0
+INV-127,1,Vitamin b12 test,397.5,750.0,-47,1,397.5,0.0,0,397.5
+INV-127,2,HBA1C Test,349.27,659.0,-47,1,349.27,0.0,0,349.27
+INV-127,3,Last bill pending,197.0,197.0,0,1,197.0,0.0,0,197.0
+INV-129,1,sotret nf 16 mg - 10 capsules,282.86,321.43,-12,3,848.57,101.83,12,950.4
+INV-129,2,Ekran Aqua Sunscreen Spf 30,268.47,305.08,-12,1,268.47,48.33,18,316.8
+INV-133,1,Glogeous facewash,785.17,923.73,-15,1,785.17,141.33,18,926.5
+INV-133,2,Bristaa Intense Cream,749.95,872.03,-14,1,749.95,134.99,18,884.94
+INV-133,3,Anaboom AD Lotion - 50 ml,233.39,274.58,-15,1,233.39,42.01,18,275.4
+INV-133,4,Anaboom AD Shampoo,290.1,329.66,-12,1,290.1,52.22,18,342.32
+INV-133,5,Acutret 5 mg,81.18,101.47,-20,3,243.54,29.22,12,272.76
+INV-134,1,ATODERM Moisturiser,723.77,761.86,-5,1,723.77,130.28,18,854.05
+INV-135,1,Tab flucon 400mg,22.58,28.23,-20,3,67.75,12.19,18,79.94
+INV-135,2,Lupizol ZS Shampoo 100 ml,369.91,420.36,-12,1,369.91,44.39,12,414.3
+INV-135,3,Anaboom AD Lotion - 50 ml,253.56,288.14,-12,1,253.56,45.64,18,299.2
+INV-136,1,Solasafe sunscreen gel spf 50,480.68,600.85,-20,2,961.36,173.04,18,1134.4
+INV-138,1,Cetaphil Gentle Cleansing Lotion - Oily Skin 125 ml,415.68,461.86,-10,1,415.68,74.82,18,490.5
+INV-138,2,Solasafe sunscreen gel spf 50,480.68,600.85,-20,1,480.68,86.52,18,567.2
+INV-138,3,IPCA Acne OC Moisturizer Cream - 75 gm,378.98,473.73,-20,1,378.98,68.22,18,447.2
+INV-140,1,Keraglo Men Tablet - 30 tablets,477.97,597.46,-20,1,477.97,86.03,18,564.0
+INV-140,2,Kera-FM 5% Topical Solution,521.39,651.74,-20,1,521.39,62.57,12,583.96
+INV-141,1,Acne-UV Gel - spf 50 (50 gm),620.34,775.42,-20,1,620.34,111.66,18,732.0
+INV-141,2,Bioderma Sebium Hydra Moisturiser - 40 ml,865.68,961.86,-10,1,865.68,155.82,18,1021.5
+INV-145,1,Acutret 20 mg - 10 capsules,206.43,258.04,-20,9,1857.86,222.94,12,2080.8
+INV-145,2,due last bill,60.0,60.0,0,1,60.0,0.0,0,60.0
+INV-146,1,Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm,395.08,438.98,-10,1,395.08,71.12,18,466.2
+INV-146,2,Ahaglow Advanced Skin Rejuvenating Face Wash Gel,556.34,632.2,-12,1,556.34,100.14,18,656.48
+INV-146,3,Acutret 20 mg - 10 capsules,206.43,258.04,-20,6,1238.57,148.63,12,1387.2
+INV-146,4,Faireye under eye cream,695.8,790.68,-12,1,695.8,125.24,18,821.04
+INV-146,5,Biluma cream - 15 gm,462.37,525.42,-12,1,462.37,83.23,18,545.6
+INV-147,1,Solasafe sunscreen gel spf 50,450.64,600.85,-25,1,450.64,81.11,18,531.75
+INV-147,2,Trapic 500 TA - 10,163.09,185.33,-12,3,489.28,24.46,5,513.74
+INV-147,3,Depiwhite Advanced Cream - 15 ml,495.93,563.56,-12,1,495.93,89.27,18,585.2
+INV-147,4,Fixderma Shadow SPF 50+ Cream,410.17,466.1,-12,1,410.17,73.83,18,484.0
+INV-147,5,Sortet F 16 mg - 10 cap,316.8,360.0,-12,6,1900.8,0.0,0,1900.8
+INV-148,1,Zincovit tablet,78.31,88.98,-12,6,469.83,84.57,18,554.4
+INV-148,2,Sevenseas Cap,303.29,344.64,-12,2,606.57,72.79,12,679.36
+INV-149,1,Excela Moisturiser - 50 gm,370.64,421.19,-12,1,370.64,66.72,18,437.36
+INV-150,1,Ahaglow Advanced Skin Rejuvenating Face Wash Gel - 100 gm,394.51,448.31,-12,1,394.51,71.01,18,465.52
