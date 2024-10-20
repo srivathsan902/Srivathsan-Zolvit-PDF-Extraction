@@ -60,20 +60,11 @@ def extract_text_from_rectangle(pdf_path, page_number, rect):
 
 
 if __name__ == "__main__":
-    pdf_path = "src/2.pdf"
-    # text = extract_pypdf(pdf_path)
-    # # Save it to a text file
-    # with open("pypdf.txt", "w", encoding="utf-8") as file:
-    #     file.write(text)
+    pdf_path = "Jan to Mar/INV-117_Naman.pdf"
     text = extract_pdfplumber(pdf_path)
     # Save it to a text file
-    with open("pdfplumber.txt", "w", encoding="utf-8") as file:
+    with open("outputs/pdfplumber.txt", "w", encoding="utf-8") as file:
         file.write(text)
-    # text = extract_pytessaract(pdf_path)
-    # # Save it to a text file
-    # with open("pytesseract.txt", "w", encoding="utf-8") as file:
-    #     file.write(text)
-
 
 
     
